@@ -1,4 +1,4 @@
-# KMeans_ClusterMallCustomers  
+# Clustering - Aprendizaje no supervisado - Clientes de comercio  
 
 En este proyecto se implementó el algoritmo **K-Means** para segmentar clientes de un centro comercial utilizando el dataset **Mall_Customers**.  
 El análisis se centró en tres variables:  
